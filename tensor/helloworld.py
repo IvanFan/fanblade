@@ -128,3 +128,8 @@ print(a.requires_grad) # True
 b = (a * a).sum()
 print(b.grad_fn)
 print(x.grad)
+
+
+x = torch.randn(20, 2)
+print(x)
+print(x[:, 1])
