@@ -1,6 +1,6 @@
 # FanBlade
 
-Moving quickly regrading deep learning models
+Quickly pickup data analysis skills with ML & DL
 
 Environment:
 
@@ -9,4 +9,4 @@ Environment:
 - Anaconda
 - CUDA 10.1
 - Pytorch 1.1.0
-
+- Caffe 
